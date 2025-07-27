@@ -39,6 +39,9 @@ body
     background-color: green;
 }
 @media   (max-width:430px) {
+   body {
+        text-align: center;
+    }
     .btn{
     height: 150px;
     width: 150px;
@@ -46,5 +49,6 @@ body
     border: 10px solid black;
     margin: 2rem;
     align-items: center;
+    
 }
 }
