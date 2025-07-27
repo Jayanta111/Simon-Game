@@ -48,7 +48,7 @@ body
     border-radius: 20%;
     border: 10px solid black;
     margin: 2rem;
-    align-items: center;
+    justify-content: center;
     
 }
 }
